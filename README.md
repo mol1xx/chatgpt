@@ -3,7 +3,7 @@
 [Install Python]
 [Install pip]
 ```
-C:\Users\roman\AppData\Local\Programs\Python
+C:\Users\mol1xx\AppData\Local\Programs\Python
 ```
 In your terminal run the requirements.txt file using this pip
 
